@@ -1,12 +1,12 @@
 {
-  "name": "nguyenary/qr-code-monkey",
+  "name": "guto00741/qr-code-monkey",
   "description": "PHP Library for free generator QR Code from qrcode-monkey.com",
   "require": {
     "php": ">=7.2"
   },
   "autoload": {
     "psr-4": {
-      "nguyenary\\QRCodeMonkey\\" : "src/"
+      "guto00741\\QRCodeMonkey\\" : "src/"
     }
   },
   "suggest": {

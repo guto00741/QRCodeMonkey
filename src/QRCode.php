@@ -1,9 +1,9 @@
 <?php
 
-namespace nguyenary\QRCodeMonkey;
+namespace guto00741\QRCodeMonkey;
 
-use nguyenary\QRCodeMonkey\Request\Request;
-use nguyenary\QRCodeMonkey\Constants\Constant;
+use guto00741\QRCodeMonkey\Request\Request;
+use guto00741\QRCodeMonkey\Constants\Constant;
 
 class QRCode
 {

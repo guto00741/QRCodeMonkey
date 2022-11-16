@@ -1,6 +1,6 @@
 <?php
 
-namespace nguyenary\QRCodeMonkey\Constants;
+namespace guto00741\QRCodeMonkey\Constants;
 
 class Constant
 {

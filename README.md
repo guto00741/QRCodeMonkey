@@ -1,3 +1,4 @@
+# This is a Fork From : https://github.com/nguyenary/QRCodeMonkey
 # PHP Class Generate Free QRCode
 
 > 👉 A library using PHP to generate QRCode from https://www.qrcode-monkey.com free <br>
@@ -341,7 +342,7 @@ composer require nguyenary/qr-code-monkey
 ```php
 require_once 'vendor/autoload.php';
 
-use nguyenary\QRCodeMonkey\QRCode;
+use guto00741\QRCodeMonkey\QRCode;
 
 $qrcode = new QRCode('nguyenary');
 ```

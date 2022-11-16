@@ -1,10 +1,8 @@
 <?php
 
-namespace nguyenary\QRCodeMonkey\Request;
+namespace guto00741\QRCodeMonkey\Request;
 
-use Curl;
-use Exception;
-use nguyenary\QRCodeMonkey\Constants\Constant;
+use guto00741\QRCodeMonkey\Constants\Constant;
 
 class Request
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace nguyenary\QRCodeMonkey\Request;
+namespace guto00741\QRCodeMonkey\Request;
 
 class Data
 {
