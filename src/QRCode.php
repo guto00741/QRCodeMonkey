@@ -7,7 +7,7 @@ use nguyenary\QRCodeMonkey\Constants\Constant;
 
 class QRCode
 {
-    private $data = 'nguyenary';
+    private $data = '';
     private $size = 1000;
     private $type = 'png';
     private $config = [];

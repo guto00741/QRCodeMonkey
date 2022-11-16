@@ -152,6 +152,9 @@ class Request
             CURLOPT_URL => $api,
             CURLOPT_RETURNTRANSFER => true,
             CURLOPT_CUSTOMREQUEST => "POST",
+            //Ignore SSL 
+            CURLOPT_SSL_VERIFYHOST => false,
+            CURLOPT_SSL_VERIFYPEER => false,
             CURLOPT_POST => 1,
             CURLOPT_POSTFIELDS => $fields,
             CURLOPT_HTTPHEADER => $header,
